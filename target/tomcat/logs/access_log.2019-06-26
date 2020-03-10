@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:00:22 +0800] "GET /edit.html HTTP/1.1" 500 1598 http-bio-8080-exec-1 24
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:01:09 +0800] "GET /springmvc_cola/cola/write?username=zhangsan&password=zs HTTP/1.1" 500 1598 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:01:09 +0800] "GET /favicon.ico HTTP/1.1" 500 1598 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:12:23 +0800] "GET /springmvc_cola/cola/write?username=zhangsan&password=zs HTTP/1.1" 200 25 http-bio-8080-exec-1 42155
+0:0:0:0:0:0:0:1 - - [26/Jun/2019:14:12:29 +0800] "GET /favicon.ico HTTP/1.1" 500 1598 http-bio-8080-exec-3 5843

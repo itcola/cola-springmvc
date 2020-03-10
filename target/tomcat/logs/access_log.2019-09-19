@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:00:37 +0800] "GET /favicon.ico HTTP/1.1" 500 1532 http-bio-8080-exec-1 36
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:00:38 +0800] "GET /cola/write HTTP/1.1" 200 - http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:00:38 +0800] "GET /favicon.ico HTTP/1.1" 500 1532 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:01:54 +0800] "GET /cola/write HTTP/1.1" 200 - http-bio-8080-exec-1 62
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:01:54 +0800] "GET /favicon.ico HTTP/1.1" 500 1532 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:02:45 +0800] "GET /cola/write HTTP/1.1" 200 - http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:02:45 +0800] "GET /favicon.ico HTTP/1.1" 500 1532 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:05:16 +0800] "GET /cola/write HTTP/1.1" 200 - http-bio-8080-exec-1 77
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:05:16 +0800] "GET /favicon.ico HTTP/1.1" 500 1532 http-bio-8080-exec-3 9
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:05:45 +0800] "GET /cola/write HTTP/1.1" 200 - http-bio-8080-exec-1 66
+0:0:0:0:0:0:0:1 - - [19/Sep/2019:00:05:45 +0800] "GET /favicon.ico HTTP/1.1" 500 1532 http-bio-8080-exec-3 8

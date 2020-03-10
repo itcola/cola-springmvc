@@ -1,0 +1,9 @@
+com\springmvc2\servlet2\DispatcherServlet2.class
+com\springmvc2\annotation2\ColaRequestMapping2.class
+com\springmvc2\annotation2\ColaAutowired2.class
+com\springmvc2\annotation2\ColaController2.class
+com\springmvc2\controller\UserController2.class
+com\springmvc2\service\impl\UserServiceImpl.class
+com\springmvc2\annotation2\ColaParam2.class
+com\springmvc2\service\UserService.class
+com\springmvc2\annotation2\ColaService2.class
